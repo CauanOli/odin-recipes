@@ -1,0 +1,37 @@
+body {
+  background-color: #1c1c1c;
+  color: #fafaff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h1,
+h2 {
+  color: #f46036;
+}
+
+h3 {
+  color: #fde0d8;
+}
+
+a {
+  color: #5b85aa;
+}
+
+img {
+  max-width: 40%;
+  height: auto;
+}
+
+.description {
+  text-align: center;
+}
+
+.description,
+.ingredients,
+.steps {
+  padding: 24px 48px;
+}
