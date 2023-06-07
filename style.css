@@ -1,5 +1,16 @@
+:root {
+  --background: #3d5c6b;
+  --background-light: #517b8e;
+
+  --on-background: #ffffff;
+  --on-primary: #ffffff;
+
+  --primary: #141f24;
+  --secondary: #edda87;
+}
+
 body {
-  background-color: #1c1c1c;
+  background-color: var(--background);
   color: #fafaff;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
