@@ -161,3 +161,34 @@ img.recipe-cover {
 .source a {
   color: var(--secondary);
 }
+
+.about-container {
+  background-color: var(--primary);
+  padding: 48px;
+  margin: 0 auto;
+  width: 960px;
+  margin-top: 48px;
+  border-radius: 24px;
+}
+
+.about-container h2 {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.about-container a.link-github {
+  background-color: var(--secondary);
+  border-radius: 12px;
+  color: var(--primary-darker);
+  font-weight: bold;
+  text-transform: uppercase;
+
+  width: 240px;
+  padding: 12px;
+
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-top: 80px;
+}
